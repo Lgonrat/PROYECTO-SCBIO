@@ -7,6 +7,7 @@ Este proyecto es un juego interactivo de "Papel, Piedra y Tijera" en el que comp
 
 1. [Instalación] Hay que importar toda la carpeta de git, y ejecutar el archivo python con una version 3.11.2 o superior. Es necesario que todos los archivos restantes, imagenes, musica, etc., esten en la misma carpeta. El ejecutable .exe se encuentra en el enlace de drive: https://drive.google.com/drive/folders/14adtfywkpZ4afLoe0zaL_aZTP22wIr7M
 Para al detección de los gestos hemos utilizado https://ai.google.dev/edge/mediapipe/solutions/vision/gesture_recognizer/python?hl=es-419 
+
 2. [Uso] El uso del juego es sencillo, primero encontramos un menu para elegir las reglas o start. 1º Hay que leerse las reglas para saber como jugar, después comienza el juego. Es simple, igual que piedra, papel o tijera pero contra la CPU del ordenador.
 
 3. [Características]
