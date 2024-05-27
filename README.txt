@@ -1,67 +1,22 @@
-Jaro Variable Font
-==================
 
-This download contains Jaro as both a variable font and static fonts.
+Juego del papel, piedra o tijera
 
-Jaro is a variable font with this axis:
-  opsz
+Este proyecto es un juego interactivo de "Papel, Piedra y Tijera" en el que compites contra el ordenador. La característica única de este juego es que puedes hacer tus movimientos usando gestos frente a la cámara de tu dispositivo, lo que agrega una experiencia interactiva y divertida.
 
-This means all the styles are contained in a single file:
-  Jaro-Regular-VariableFont_opsz.ttf
+## Tabla de Contenidos
 
-If your app fully supports variable fonts, you can now pick intermediate styles
-that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Jaro:
-  static/Jaro_9pt-Regular.ttf
-  static/Jaro-Regular.ttf
-  static/Jaro_24pt-Regular.ttf
-  static/Jaro_36pt-Regular.ttf
-  static/Jaro_60pt-Regular.ttf
+1. [Instalación] Hay que importar toda la carpeta de git, y ejecutar el archivo python con una version 3.11.2 o superior. Es necesario que todos los archivos restantes, imagenes, musica, etc., esten en la misma carpeta. El ejecutable .exe se encuentra en el enlace de drive: https://drive.google.com/drive/folders/14adtfywkpZ4afLoe0zaL_aZTP22wIr7M
 
-Get started
------------
+2. [Uso] El uso del juego es sencillo, primero encontramos un menu para elegir las reglas o start. 1º Hay que leerse las reglas para saber como jugar, después comienza el juego. Es simple, igual que piedra, papel o tijera pero contra la CPU del ordenador.
 
-1. Install the font files you want to use
+3. [Características]
+      - Detección de Movimientos: El juego utiliza la cámara de tu dispositivo para detectar tus gestos de "papel", "piedra" o "tijera".
+      - Juego contra el Ordenador: Compites contra el ordenador en una serie de rondas.
+      - Animaciones y Efectos de Sonido: Se incluyen animaciones y efectos de sonido para mejorar la experiencia del juego.
+      - Interfaz Gráfica Intuitiva: La interfaz gráfica es fácil de usar y proporciona instrucciones claras para los jugadores.
+      - Puntuación: Se lleva un registro de la puntuación para seguir tu progreso en el juego.
 
-2. Use your app's font picker to view the font family and all the
-available styles
+4. [Créditos] El juego es creado por alumnos de la UPV para la asignatura de Sistemas Complejos Bioinspirados. 
+   Lucía González, Ivan Martínez, Ana Isabel López, Lucia Biosca y Fermín Sánchez.
 
-Learn more about variable fonts
--------------------------------
 
-  https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts
-  https://variablefonts.typenetwork.com
-  https://medium.com/variable-fonts
-
-In desktop apps
-
-  https://theblog.adobe.com/can-variable-fonts-illustrator-cc
-  https://helpx.adobe.com/nz/photoshop/using/fonts.html#variable_fonts
-
-Online
-
-  https://developers.google.com/fonts/docs/getting_started
-  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
-  https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts
-
-Installing fonts
-
-  MacOS: https://support.apple.com/en-us/HT201749
-  Linux: https://www.google.com/search?q=how+to+install+a+font+on+gnu%2Blinux
-  Windows: https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows
-
-Android Apps
-
-  https://developers.google.com/fonts/docs/android
-  https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts
-
-License
--------
-Please read the full license text (OFL.txt) to understand the permissions,
-restrictions and requirements for usage, redistribution, and modification.
-
-You can use them in your products & projects – print or digital,
-commercial or otherwise.
-
-This isn't legal advice, please consider consulting a lawyer and see the full
-license for all details.
